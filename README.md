@@ -77,9 +77,7 @@ Kanana는 한국어 톤과 표현을 다듬는 데 강점이 있고, GPT / Gemin
 - 분기 후 Merge
 - 마지막 노드에서 최종 결과 정리
 
-![워크플로우 예시 1](./public/readme-images/workflow-example-1.png)
-
-![워크플로우 예시 2](./public/readme-images/workflow-example-2.png)
+![워크플로우 예시](./public/readme-images/workflow-example.png)
 
 ## API 키와 보안
 
